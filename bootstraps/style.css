@@ -1,0 +1,154 @@
+
+
+/* header start*/
+
+.header-area .main-menu .luse {
+    margin-top: 15px;
+}
+
+.header-area .main-menu .see{
+    color: coral;
+}
+.header-area .main-menu .nav-item .nav-link {
+    color: coral;
+}
+.header-area .main-menu .navbar-nav a:hover {
+    background: black;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+/* header end*/
+/*main start*/
+
+.site-main .site-banner .site-title p {
+    font-size: 12px;
+}
+.site-main .site-banner .site-title  {
+    margin-top:50px;
+}
+.site-main .site-banner .site-title .btn-coral {
+    color: rgb(235, 86, 31);
+}
+.site-main .site-banner .site-title .box-1{
+    margin-top: 75px;
+    width: 60%;
+    height:35px;
+}
+/*main end*/
+/*form start*/
+.site-table .site-image img{
+    height:100%;
+}
+.site-table .site-form .main-card-1 {
+    padding: 10px;
+    display: flex;
+}
+/*form  end*/
+
+/*accordion start*/
+.accordion .first-para{
+    background: #001630;
+    border-radius: 5px;
+    color: white;
+    padding:10px;
+}
+.accordion {
+    background: ghostwhite;
+}
+.accordion .para{
+    background: white;
+    border-radius: 5px;
+
+}
+.accordion  i{
+    color: coral;
+}
+/*accordion end*/
+/*new form start*/
+.new-form img{
+    width:20%;
+    height: 150px;
+}
+/*new form end*/
+/*playstore start*/
+.playstore{
+    background: ghostwhite;
+}
+.playstore .playgod{
+    padding: 20px;
+    display: inline-block;
+    width: 50%;
+}
+.playstore .play-pic {
+    display: flex;
+}
+
+/*playstore end*/
+
+/*new-acc start*/
+.new-acc .jo{
+    font-size: 12px;
+}
+.new-acc .jo h3{
+    color: black;
+}
+.new-acc .jui{
+    background:ghostwhite;
+}
+/*new-acc end*/
+/*help start*/
+.help{
+    background:#001630;
+    color: white;
+}
+.help button {
+    color: coral;
+}
+.help button:hover{
+    background: coral;
+}
+/*help end*/
+/*link start*/
+.link .link-fi {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.link .link-size a{
+    color: black;
+    font-size: 12px;
+    text-decoration: none;
+}
+.link .one-hr{
+    background: black;
+    opacity:0.3;
+}
+/*link end*/
+/*final one start*/
+.final-sec .final-1{
+    padding: 10px;
+}
+
+.final-sec .final-1 a {
+    font-size: 12px;
+    color: black;
+    text-decoration: none;
+    }
+.final-sec .final-1 a:hover{
+    color: coral;
+}
+
+
+/*final one end*/
+
+
+
+/*footer start*/
+.footer-area{
+    padding: 20px;
+    font-size: 13px;
+    background: #001630;
+    color: white;
+}
+/*footer end*/
